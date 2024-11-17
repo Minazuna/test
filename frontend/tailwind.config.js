@@ -5,8 +5,4 @@ module.exports = {
   },
   plugins: [],
 };
-export default {
-  build: {
-    outDir: 'dist', // Ensure this is 'dist'
-  },
-};
+
